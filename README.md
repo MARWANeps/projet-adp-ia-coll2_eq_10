@@ -5,7 +5,7 @@
 ## Identité du groupe
 - **Code équipe** : À compléter (ex : COLL1_EQ_03)
 - **Code projet** : À compléter (ex : DI-BKT)
-- **APS** : À compléter
+- **APS** : À compléte
 - **Famille** : DI / ES / EN
 
 ## Membres
